@@ -1,4 +1,5 @@
-{"report":{
+{"report":[
+	{
 	"DetectorVersion" : 131072,
 	"DetectorID" : "{0A248DE8-3622-432A-04A3-92205B452D23}",
 	"DetectorClassID" : 385345146,
@@ -31,5 +32,5 @@
 	},
 	"EventID" : "{802FCF44-4A36-C84D-8BA6-7AE957B752A8}",
 	"DetectorEventType" : "detSimpleEvent"
-}
+},]
 }
