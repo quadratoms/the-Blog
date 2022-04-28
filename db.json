@@ -1,0 +1,35 @@
+{"report":{
+	"DetectorVersion" : 131072,
+	"DetectorID" : "{0A248DE8-3622-432A-04A3-92205B452D23}",
+	"DetectorClassID" : 385345146,
+	"EventTime" : "13295096643198",
+	"State" : "dsNormal",
+	"EventCode" : 101,
+	"EventInfo" : {
+		"Text" : "AKD611HE",
+		"Timestamp" : "13295096643198",
+		"Confidence" : 0.3599999845027923584,
+		"Origin" : "NGA",
+		"Speed" : 0,
+		"MMR" : {
+			"Make" : "",
+			"Model" : "",
+			"Category" : "",
+			"Color" : ""
+		},
+		"Location" : [
+			886,
+			541,
+			1001,
+			546,
+			999,
+			600,
+			884,
+			595
+		],
+		"Image" : true
+	},
+	"EventID" : "{802FCF44-4A36-C84D-8BA6-7AE957B752A8}",
+	"DetectorEventType" : "detSimpleEvent"
+}
+}
